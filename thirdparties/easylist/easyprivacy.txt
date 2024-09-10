@@ -3159,7 +3159,6 @@ omni.soundestlink.com$image
 ||cityrobotflower.com^
 ||ck123.io^
 ||ckies.net^
-||clarity.ms^
 ||clearbitscripts.com^
 ||click360.io^
 ||cliquelead.com^
@@ -15200,7 +15199,6 @@ abema.tv##+js(rmnt, script, NREUM)
 @@||coomer.su/.well-known/ddos-guard/mark/|
 @@||kemono.su/.well-known/ddos-guard/mark/|
 ! phileweb.com
-||clarity.ms/tag/$script,domain=phileweb.com,important
 phileweb.com##+js(set-attr, span[class] img.lazyload[width], src, [data-src])
 ! e-begin.jp
 e-begin.jp##.inviewSection:not(.is-show):style(transform: translateY(0) !important; opacity: 1 !important;)
@@ -52996,7 +52994,6 @@ mustar.meitetsu.co.jp##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 @@||bdash-cloud.com/tracking-script/*/tracking.js$domain=junonline.jp
 @@||carsensor.net/usedcar/modules/clicklog_top_lp_revo.php$xmlhttprequest
 @@||cdn.treasuredata.com/sdk/$script,domain=retty.me
-@@||clarity.ms/tag/$script,domain=phileweb.com
 @@||cmn.gyro-n.com/js/gyr.min.js$domain=benesse-style-care.co.jp
 @@||delivery.satr.jp^$script,domain=mieru-ca.com
 @@||deteql.net/recommend/provision?$xmlhttprequest,domain=t-fashion.jp
